@@ -1,18 +1,68 @@
-# 💫 About Me:
-Student 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=youtim64&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203870083%3Fu%3Dbcd1f6eee76be6f8e0f58833b41b0334403daead%26v%3D4" alt="youtim64 hero visual" />
+</p>
 
+<p align="center"><b>hbougrini</b> · Frontend or full-stack engineer<br/><sub>un étudiant</sub></p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=youtim25&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=youtim25&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=youtim25&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"><a href="https://github.com/youtim64">GitHub</a></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=youtim25&theme=neon&no-frame=true&no-bg=true&margin-w=4)
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=youtim25&icon=0&color=6)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=youtim64&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203870083%3Fu%3Dbcd1f6eee76be6f8e0f58833b41b0334403daead%26v%3D4" alt="youtim64 projects visual" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [R3.06-Reseau](https://github.com/youtim64/R3.06-Reseau) · ★ 0
+- [lacosina--PHP-](https://github.com/youtim64/lacosina--PHP-) · ★ 0
+- [portfolio](https://github.com/youtim64/portfolio) · ★ 0
+- [SAE-1.02](https://github.com/youtim64/SAE-1.02) · ★ 0 — Projet BUT pour algo de trie
+- [youtim64](https://github.com/youtim64/youtim64) · ★ 0
+- [chocoblasted](https://github.com/youtim64/chocoblasted) · ★ 0 — un cocoblast
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=youtim64&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203870083%3Fu%3Dbcd1f6eee76be6f8e0f58833b41b0334403daead%26v%3D4" alt="youtim64 stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>6</b> public repositories, <b>0</b> stars, <b>40</b> contributions in the last year, a longest streak of <b>2</b> days and <b>4</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=youtim64&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203870083%3Fu%3Dbcd1f6eee76be6f8e0f58833b41b0334403daead%26v%3D4" alt="youtim64 stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=youtim64&theme=neon" alt="youtim64 contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=youtim64&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203870083%3Fu%3Dbcd1f6eee76be6f8e0f58833b41b0334403daead%26v%3D4" alt="youtim64 social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>hbougrini · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
